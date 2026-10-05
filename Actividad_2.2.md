@@ -4,3 +4,5 @@
     #Caso 2: Usaría webAssembly ya que es la mejor opción para proyecto de alto rendimiento como este y además, al usar formato binario  se ejecuta a una alta velocidad. 
 
     #Caso 3: Para este caso usaría TypesScript porque ofrece un tipado estático, interfaces genéricos y una detecctión de errores en tiempo de compilación ideal para este proyecto. 
+
+    
