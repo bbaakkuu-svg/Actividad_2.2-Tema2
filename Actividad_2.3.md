@@ -11,6 +11,9 @@ Completa la tabla justificando cada respuesta con base en la teoría de la unida
 | Log E | ¡ERROR CATÁSTROFICO! | Ámbito de bloque. |
 | Log F | ¡ERROR CATÁSTROFICO! | Zona Muerta Temporal. |
 
+# Tarea 2
+![Comprobacion_Tarea_2](.)
+
 # Tarea 3
 
 El uso de `var` permite acceder a una variable antes de su declaración debido al *hoisting*,lo que puede provocar errores difíciles de detectar. En aplicaciones extensas, la falta de control del ámbito de las variables puede afectar a la estabilidad y la mantenibilidad del proyecto.
