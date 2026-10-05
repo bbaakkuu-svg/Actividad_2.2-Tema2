@@ -12,7 +12,7 @@ Completa la tabla justificando cada respuesta con base en la teoría de la unida
 | Log F | ¡ERROR CATÁSTROFICO! | Zona Muerta Temporal. |
 
 # Tarea 2
-![Comprobacion_Tarea_2](.)
+![Comprobacion_Tarea_2](REPOSITORIOS\Actividad_2.2-Tema2)
 
 # Tarea 3
 
